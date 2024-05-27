@@ -1,3 +1,4 @@
+# 🚧 This repo has been moved to [prescientmoon/purescript-ask](https://github.com/prescientmoon/purescript-ask) 🚧
 # Ask
 
 Typeclass based implicit arguments. Think `Reader` but without the burden of doing everything inside do-notation.
